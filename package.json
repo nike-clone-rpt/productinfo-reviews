@@ -41,7 +41,7 @@
     "react-dom": "^16.8.6",
     "run": "^1.4.0",
     "semantic-ui-react": "^0.88.0",
-    "sequelize": "^5.12.2",
+    "sequelize": "^5.15.1",
     "watch": "^1.0.2",
     "webpack": "^4.38.0"
   },
